@@ -16,3 +16,7 @@ This Python script, powered by Selenium, is designed to scrape detailed product 
 
 ```bash
 git clone https://github.com/Raefml/amazon-scraper.git
+
+
+![Screenshot from 2024-02-10 18-01-45](https://github.com/Raefml/amazone_scrapper_asin/assets/93080320/d712cf74-b31f-4947-82d4-69c6b0e1c4cd)
+
